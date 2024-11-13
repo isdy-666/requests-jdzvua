@@ -26,8 +26,8 @@
 1. **克隆项目代码**：
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/isdy-666/requests-jdzvua.git
+    cd requests-jdzvua
     ```
 
 2. **安装所需的 Python 包**：
