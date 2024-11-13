@@ -35,7 +35,7 @@
     ```bash
     pip install requests beautifulsoup4
     ```
-3. **安装所需的 Python 包**：
+3. **运行python脚本**：
 
     ```bash
     python requests-jdzvua.py
